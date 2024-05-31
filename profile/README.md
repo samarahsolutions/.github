@@ -2,7 +2,7 @@
 
 ### Samarah Solutions is a:
 
-- Consulting, advisory and mentoring services for the mining industry focussed on geoscience, maintenance, technology, and innovation.
+- Consulting, advisory and mentoring services for the mining industry focussed on geoscience, industrial maintenance, technology, and innovation.
 
 ### We focus on:
 
@@ -16,7 +16,7 @@
 
 - Support digital transformation in the mining sector especially in the areas of geoscience, maintenance and safety.
 - Focus on removing subjective human biases from primary geoscience data sources and inputs, to improve interpretations, 3D resource modelling and decision making.
-- Support more reliable and repeatable geoscience, maintenance and safety data and workflows.
+- Support more reliable and repeatable geoscience, industrial maintenance and safety data and workflows.
 
 ### Who are our clients?
 
